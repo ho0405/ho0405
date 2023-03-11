@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anytime!
 - 📫 How to reach me: https://www.linkedin.com/in/ryan-back/
 - 😄 Pronouns: Ryan!
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: "I have a diverse range of skills and extensive experience in various fields. I am a certified drone pilot and forklift operator, learning coding, skilled in coffee latte art, and have previously held managerial roles in the restaurant industry. In addition, I have experience coaching and managing soccer teams."
 
 
 ## 🌐 Socials:

@@ -6,7 +6,7 @@ Special Check this out : https://ryanback.vercel.app/
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Ikea as Forklift Operator
+- 🔭 I’m currently working on Empowered Futures as Mobile developer
 - 🌱 I’m currently learning Software Development at SAIT
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
